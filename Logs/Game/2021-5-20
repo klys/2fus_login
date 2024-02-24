@@ -1,0 +1,16 @@
+[14 : 24 : 03] : Starting logger..
+[14 : 24 : 03] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[14 : 24 : 03] : messageSent : SKK# -> 1
+[14 : 24 : 03] : messageReceived de 1 : SH127.0.0.1;5555
+[14 : 24 : 03] : messageSent : SHK# -> 1
+[14 : 24 : 03] : messageReceived de 1 : SS1
+[14 : 24 : 14] : messageSent : WA4# -> 1
+[14 : 24 : 26] : messageSent : F?# -> 1
+[14 : 24 : 26] : messageReceived de 1 : F699
+[14 : 24 : 40] : messageReceived de 1 : DI20
+[14 : 24 : 40] : messageSent : DI20;4690# -> 1
+[14 : 24 : 56] : messageSent : F?# -> 1
+[14 : 24 : 56] : messageReceived de 1 : F699
+[14 : 25 : 15] : messageSent : WA4# -> 1
+[14 : 25 : 26] : messageSent : F?# -> 1
+[14 : 25 : 26] : messageReceived de 1 : F699

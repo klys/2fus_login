@@ -1,0 +1,43 @@
+[20 : 40 : 26] : Starting logger..
+[20 : 40 : 26] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[20 : 40 : 26] : messageSent : SKK# -> 1
+[20 : 40 : 26] : messageReceived de 1 : SH25.75.31.231;5555
+[20 : 40 : 26] : messageSent : SHK# -> 1
+[20 : 40 : 26] : messageReceived de 1 : SS1
+[20 : 40 : 43] : messageSent : F?# -> 1
+[20 : 40 : 43] : messageReceived de 1 : F700
+[20 : 40 : 52] : messageSent : WA4# -> 1
+[20 : 41 : 13] : messageSent : F?# -> 1
+[20 : 41 : 13] : messageReceived de 1 : F699
+[20 : 41 : 43] : messageSent : F?# -> 1
+[20 : 41 : 43] : messageReceived de 1 : F699
+[20 : 41 : 45] : messageReceived de 1 : DI20
+[20 : 41 : 45] : messageSent : DI20;6719# -> 1
+[20 : 42 : 13] : messageSent : F?# -> 1
+[20 : 42 : 13] : messageReceived de 1 : F699
+[20 : 42 : 43] : messageSent : F?# -> 1
+[20 : 42 : 43] : messageReceived de 1 : F699
+[20 : 43 : 13] : messageSent : F?# -> 1
+[20 : 43 : 13] : messageReceived de 1 : F699
+[20 : 43 : 43] : messageSent : F?# -> 1
+[20 : 43 : 43] : messageReceived de 1 : F699
+[20 : 44 : 13] : messageSent : F?# -> 1
+[20 : 44 : 13] : messageReceived de 1 : F699
+[20 : 44 : 28] : messageReceived de 1 : DI21
+[20 : 44 : 28] : messageSent : DI21;6720# -> 1
+[20 : 44 : 43] : messageSent : F?# -> 1
+[20 : 44 : 43] : messageReceived de 1 : F699
+[20 : 45 : 13] : messageSent : F?# -> 1
+[20 : 45 : 13] : messageReceived de 1 : F699
+[20 : 45 : 43] : messageSent : F?# -> 1
+[20 : 45 : 43] : messageReceived de 1 : F699
+[20 : 46 : 13] : messageSent : F?# -> 1
+[20 : 46 : 13] : messageReceived de 1 : F699
+[20 : 46 : 43] : messageSent : F?# -> 1
+[20 : 46 : 43] : messageReceived de 1 : F699
+[20 : 47 : 13] : messageSent : F?# -> 1
+[20 : 47 : 13] : messageReceived de 1 : F699
+[20 : 47 : 43] : messageSent : F?# -> 1
+[20 : 47 : 43] : messageReceived de 1 : F699
+[20 : 48 : 04] : exceptionCaught : Connection reset -> 1
+[20 : 48 : 04] : sessionClosed -> 1

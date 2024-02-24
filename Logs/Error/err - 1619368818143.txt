@@ -1,0 +1,3 @@
+Stape 1 : 123
+Stape 2 : 3e39b3844837bdefc8017fbcb386ea302af877fb17baa09d0a1bd34b67bbf2b34fba314bbcab450f5f3f73771b7aea956ba3320defda029723f4fdff7dfa007b
+Stape 3 : 3e39

@@ -1,0 +1,11 @@
+[12 : 16 : 31] : Starting logger..
+[12 : 16 : 31] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[12 : 16 : 31] : messageSent : SKK# -> 601
+[12 : 16 : 31] : messageReceived de 601 : SH127.0.0.1;5555
+[12 : 16 : 31] : messageSent : SHK# -> 601
+[12 : 16 : 31] : messageReceived de 601 : SS1
+[12 : 16 : 45] : messageSent : WA4# -> 601
+[12 : 16 : 54] : messageSent : F?# -> 601
+[12 : 16 : 54] : messageReceived de 601 : F699
+[12 : 16 : 59] : exceptionCaught : Une connexion existante a dû être fermée par l’hôte distant -> 601
+[12 : 16 : 59] : sessionClosed -> 601

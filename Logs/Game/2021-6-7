@@ -1,0 +1,93 @@
+[09 : 39 : 22] : Starting logger..
+[09 : 39 : 22] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[09 : 39 : 22] : messageSent : SKK# -> 1
+[09 : 39 : 22] : messageReceived de 1 : SH127.0.0.1;5555
+[09 : 39 : 22] : messageSent : SHK# -> 1
+[09 : 39 : 22] : messageReceived de 1 : SS1
+[09 : 39 : 27] : messageSent : WA4# -> 1
+[09 : 39 : 48] : messageSent : F?# -> 1
+[09 : 39 : 48] : messageReceived de 1 : F700
+[09 : 39 : 57] : messageSent : WA4# -> 1
+[09 : 40 : 18] : messageSent : F?# -> 1
+[09 : 40 : 18] : messageReceived de 1 : F699
+[09 : 40 : 44] : messageReceived de 1 : DI20
+[09 : 40 : 44] : messageSent : DI20;5210# -> 1
+[09 : 40 : 48] : messageSent : F?# -> 1
+[09 : 40 : 48] : messageReceived de 1 : F699
+[09 : 41 : 18] : messageSent : F?# -> 1
+[09 : 41 : 18] : messageReceived de 1 : F699
+[09 : 41 : 48] : messageSent : F?# -> 1
+[09 : 41 : 48] : messageReceived de 1 : F699
+[09 : 42 : 18] : messageSent : F?# -> 1
+[09 : 42 : 18] : messageReceived de 1 : F699
+[09 : 42 : 48] : messageSent : F?# -> 1
+[09 : 42 : 48] : messageReceived de 1 : F699
+[09 : 43 : 18] : messageSent : F?# -> 1
+[09 : 43 : 18] : messageReceived de 1 : F699
+[09 : 43 : 48] : messageSent : F?# -> 1
+[09 : 43 : 48] : messageReceived de 1 : F699
+[09 : 44 : 18] : messageSent : F?# -> 1
+[09 : 44 : 18] : messageReceived de 1 : F699
+[09 : 44 : 48] : messageSent : F?# -> 1
+[09 : 44 : 48] : messageReceived de 1 : F699
+[09 : 45 : 18] : messageSent : F?# -> 1
+[09 : 45 : 18] : messageReceived de 1 : F699
+[09 : 45 : 48] : messageSent : F?# -> 1
+[09 : 45 : 48] : messageReceived de 1 : F699
+[12 : 12 : 03] : Starting logger..
+[12 : 12 : 03] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[12 : 12 : 03] : messageSent : SKK# -> 1
+[12 : 12 : 03] : messageReceived de 1 : SH127.0.0.1;5555
+[12 : 12 : 03] : messageSent : SHK# -> 1
+[12 : 12 : 03] : messageReceived de 1 : SS1
+[12 : 12 : 20] : messageSent : WA4# -> 1
+[12 : 12 : 28] : messageSent : F?# -> 1
+[12 : 12 : 28] : messageReceived de 1 : F699
+[12 : 12 : 52] : messageSent : WA4# -> 1
+[12 : 12 : 58] : messageSent : F?# -> 1
+[12 : 12 : 58] : messageReceived de 1 : F699
+[12 : 13 : 14] : messageSent : WA4# -> 1
+[12 : 13 : 28] : messageSent : F?# -> 1
+[12 : 13 : 28] : messageReceived de 1 : F699
+[12 : 13 : 33] : exceptionCaught : Connection reset -> 1
+[12 : 13 : 33] : sessionClosed -> 1
+[12 : 15 : 06] : Starting logger..
+[12 : 15 : 06] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[12 : 15 : 06] : messageSent : SKK# -> 1
+[12 : 15 : 06] : messageReceived de 1 : SH127.0.0.1;5555
+[12 : 15 : 06] : messageSent : SHK# -> 1
+[12 : 15 : 06] : messageReceived de 1 : SS1
+[12 : 15 : 16] : messageSent : WA4# -> 1
+[12 : 15 : 33] : messageSent : F?# -> 1
+[12 : 15 : 33] : messageReceived de 1 : F700
+[12 : 15 : 52] : messageSent : WA4# -> 1
+[12 : 16 : 03] : messageSent : F?# -> 1
+[12 : 16 : 03] : messageReceived de 1 : F700
+[12 : 16 : 33] : messageSent : WA4# -> 1
+[12 : 16 : 33] : messageSent : F?# -> 1
+[12 : 16 : 33] : messageReceived de 1 : F700
+[12 : 17 : 03] : messageSent : F?# -> 1
+[12 : 17 : 03] : messageReceived de 1 : F699
+[12 : 18 : 06] : Starting logger..
+[12 : 18 : 06] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[12 : 18 : 06] : messageSent : SKK# -> 1
+[12 : 18 : 06] : messageReceived de 1 : SH127.0.0.1;5555
+[12 : 18 : 06] : messageSent : SHK# -> 1
+[12 : 18 : 06] : messageReceived de 1 : SS1
+[12 : 18 : 13] : messageSent : WA4# -> 1
+[12 : 18 : 24] : messageSent : WA4# -> 1
+[12 : 18 : 33] : messageSent : F?# -> 1
+[12 : 18 : 33] : messageReceived de 1 : F700
+[12 : 18 : 35] : exceptionCaught : Connection reset -> 1
+[12 : 18 : 35] : sessionClosed -> 1
+[12 : 19 : 23] : Starting logger..
+[12 : 19 : 23] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[12 : 19 : 23] : messageSent : SKK# -> 1
+[12 : 19 : 23] : messageReceived de 1 : SH127.0.0.1;5555
+[12 : 19 : 23] : messageSent : SHK# -> 1
+[12 : 19 : 23] : messageReceived de 1 : SS1
+[12 : 19 : 24] : messageSent : WA4# -> 1
+[12 : 19 : 50] : messageSent : F?# -> 1
+[12 : 19 : 50] : messageReceived de 1 : F699
+[12 : 19 : 55] : exceptionCaught : Connection reset -> 1
+[12 : 19 : 55] : sessionClosed -> 1

@@ -1,0 +1,21 @@
+[10 : 42 : 45] : Starting logger..
+[10 : 42 : 45] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[10 : 42 : 45] : messageSent : SKK# -> 601
+[10 : 42 : 45] : messageReceived de 601 : SH25.75.31.231;5555
+[10 : 42 : 45] : messageSent : SHK# -> 601
+[10 : 42 : 45] : messageReceived de 601 : SS1
+[10 : 43 : 08] : messageSent : WA4# -> 601
+[10 : 43 : 09] : messageSent : F?# -> 601
+[10 : 43 : 09] : messageReceived de 601 : F700
+[10 : 43 : 25] : messageReceived de 601 : DI20
+[10 : 43 : 25] : messageSent : DI20;7305# -> 601
+[10 : 43 : 39] : messageSent : F?# -> 601
+[10 : 43 : 39] : messageReceived de 601 : F699
+[10 : 44 : 09] : messageSent : F?# -> 601
+[10 : 44 : 09] : messageReceived de 601 : F699
+[10 : 44 : 39] : messageSent : F?# -> 601
+[10 : 44 : 39] : messageReceived de 601 : F699
+[10 : 45 : 09] : messageSent : F?# -> 601
+[10 : 45 : 09] : messageReceived de 601 : F699
+[10 : 45 : 39] : messageSent : F?# -> 601
+[10 : 45 : 39] : messageReceived de 601 : F699

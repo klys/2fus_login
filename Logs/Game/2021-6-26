@@ -1,0 +1,21 @@
+[20 : 20 : 58] : Starting logger..
+[20 : 20 : 58] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[20 : 20 : 58] : messageSent : SKK# -> 1
+[20 : 20 : 58] : messageReceived de 1 : SH25.75.31.231;5555
+[20 : 20 : 58] : messageSent : SHK# -> 1
+[20 : 20 : 58] : messageReceived de 1 : SS1
+[20 : 21 : 01] : messageSent : WA4# -> 1
+[20 : 21 : 21] : messageSent : F?# -> 1
+[20 : 21 : 21] : messageReceived de 1 : F699
+[20 : 21 : 51] : messageSent : F?# -> 1
+[20 : 21 : 51] : messageReceived de 1 : F699
+[20 : 22 : 21] : messageSent : F?# -> 1
+[20 : 22 : 21] : messageReceived de 1 : F699
+[20 : 22 : 51] : messageSent : F?# -> 1
+[20 : 22 : 51] : messageReceived de 1 : F699
+[20 : 23 : 21] : messageSent : F?# -> 1
+[20 : 23 : 21] : messageReceived de 1 : F699
+[20 : 23 : 51] : messageSent : F?# -> 1
+[20 : 23 : 51] : messageReceived de 1 : F699
+[20 : 24 : 16] : exceptionCaught : Connection reset -> 1
+[20 : 24 : 16] : sessionClosed -> 1

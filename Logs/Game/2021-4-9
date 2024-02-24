@@ -1,0 +1,20 @@
+[21 : 33 : 24] : Starting logger..
+[21 : 33 : 24] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[21 : 33 : 24] : messageSent : SKK# -> 1
+[21 : 33 : 24] : messageReceived de 1 : SH127.0.0.1;5555
+[21 : 33 : 24] : messageSent : SHK# -> 1
+[21 : 33 : 24] : messageReceived de 1 : SS1
+[21 : 33 : 37] : messageSent : WA4# -> 1
+[21 : 33 : 49] : messageSent : F?# -> 1
+[21 : 33 : 49] : messageReceived de 1 : F699
+[21 : 34 : 14] : exceptionCaught : Une connexion existante a dû être fermée par l’hôte distant -> 1
+[21 : 34 : 14] : sessionClosed -> 1
+[22 : 05 : 51] : Starting logger..
+[22 : 05 : 51] : messageReceived de 127.0.0.1 : SK1;jivaa;50000
+[22 : 05 : 51] : messageSent : SKK# -> 1
+[22 : 05 : 51] : messageReceived de 1 : SH127.0.0.1;5555
+[22 : 05 : 51] : messageSent : SHK# -> 1
+[22 : 05 : 51] : messageReceived de 1 : SS1
+[22 : 06 : 02] : messageSent : WA5# -> 1
+[22 : 06 : 17] : messageSent : F?# -> 1
+[22 : 06 : 17] : messageReceived de 1 : F699
